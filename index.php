@@ -39,7 +39,7 @@
             </div>
         </div>
     </nav>
-    
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/NkZFnpDhdCk?si=iVFVLMG1wTMtz03f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <div class="hero">
         <h1>Welcome to FancyWeb</h1>
         <p>Experience an elegant and modern web interface</p>
